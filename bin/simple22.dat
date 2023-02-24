@@ -1,0 +1,36 @@
+14 12 
+###~~~~.....#~
+##~~~......#~~
+#~~...###..~~~
+~~~....##...~~
+#.##....##...#
+#....~..###~.~
+#.#~.#..####.~
+#.#~.#.~#.##.~
+#.#..#.~#..#..
+#.#.~#..#..##.
+#.#..#~....##.
+#.##.#~~#####.
+player 5 4
+monster 9 8 B 30 5
+monster 6 7 Slime 5 1
+monster 3 3 Slime 5 1
+monster 3 2 Slime 5 1
+monster 1 5 Slime 5 1
+monster 7 0 Slime 5 1
+monster 10 8 KnightSlime 10 8
+monster 10 4 GreenSlime 10 3
+item 4 11 +
+item 3 9 +
+item 9 2 +
+item 12 4 +
+item 6 4 ^
+item 10 10 ^
+item 10 1 ^
+item 13 10 ^
+item 13 11 ^
+item 1 11 ^
+item 1 10 ^
+item 1 9 ^
+item 1 8 ^
+item 9 7 @
