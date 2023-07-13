@@ -1,4 +1,4 @@
-```markdown
+
 # Rogue Expanded: 2D Terminal-Based Game
 
 Welcome to Rogue Expanded, an advanced version of a basic 2D game created as a project for the COMP90041 assignment. This is a terminal-based Java game where players can engage in interactive gameplay, battling monsters and exploring a digital world.
@@ -51,5 +51,3 @@ exit
 Each command will guide you through the next steps.
 
 Thank you for your interest in Rogue Expanded, and enjoy the game!
-```
-I hope this README file gives an accurate and concise overview of your project! Feel free to modify it according to your needs.
